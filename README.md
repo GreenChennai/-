@@ -1,4 +1,4 @@
 <html lang="zh">
-<body background="/api.jpg">
+<body background="/api (2000×1428).png">
 </body>
 </html>
