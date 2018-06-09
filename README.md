@@ -1,5 +1,4 @@
 <html lang="zh">
-<a href="http://www.w3school.com.cn">W3School</a>
-[spoiler]
-[/spoiler]
+<body background="/api.jpg">
+</body>
 </html>
