@@ -7,7 +7,7 @@
 -->修复视频解析错误问题
 -->增加更多页面
 ==========================
-软件大小:5.01MB
+软件大小:5.02MB
 原来大小:4.96MB
 【内容】
 【链接】https://greenchennai.github.io/serve-NAI/APPS/bai.apk【链接】
